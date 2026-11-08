@@ -1,0 +1,26 @@
+name: Quiz paylaş
+on:
+  schedule:
+    - cron: "0 5,10,16 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python bot.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+      - name: Növbəti sualı yadda saxla
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "quiz-bot@users.noreply.github.com"
+          git add state.json
+          git commit -m "Növbəti sual" || true
+          git push
