@@ -1,6 +1,3 @@
-"""Telegram kanalına növbəti quiz sualını göndərir.
-Sual 300, variant 100 simvoldan uzundursa: mətn ayrıca mesajla
-göndərilir, quiz isə qısa formada (A, B, C...) onun altında gəlir."""
 import json, os, urllib.request, urllib.parse
 
 TOKEN = os.environ["BOT_TOKEN"]
@@ -22,9 +19,10 @@ state = json.load(open("state.json", encoding="utf-8"))
 i = state["next"] % len(questions)
 q = questions[i]
 sual, variantlar = q["q"], q["o"]
+if q.get("m") and len(sual) + len(q["m"]) + 4 <= 300:
+    sual = f"📚 {q['m']}\n{sual}"
 
 if len(sual) > 300 or any(len(o) > 100 for o in variantlar):
-    # Uzun sual: tam mətni ayrıca mesajla göndər
     metn = f"❓ Sual {i + 1}\n\n{sual}\n\n" + "\n".join(
         f"{HERF[k]}) {o}" for k, o in enumerate(variantlar))
     call("sendMessage", {"chat_id": CHAT, "text": metn})
