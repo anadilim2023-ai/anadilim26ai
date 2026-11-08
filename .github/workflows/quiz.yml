@@ -1,7 +1,7 @@
 name: Quiz paylaş
 on:
   schedule:
-    - cron: "0 5,10,16 * * *"
+    - cron: "47 4,9,15 * * *"
   workflow_dispatch:
 permissions:
   contents: write
