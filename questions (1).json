@@ -1,0 +1,1640 @@
+[
+ {
+  "q": "Hansı sözlərdə qoşa samitlərdən ikincisi cingiltili tələffüz olunur?\n1) təfəkkür  2) müfəttiş  3) libretto  4) şəffaf  5) qəssab  6) hoppanmaq  7) həssaslıq",
+  "o": [
+   "2, 3, 4, 6",
+   "1, 2, 3, 6",
+   "1, 4, 5, 7",
+   "4, 5, 6, 7",
+   "1, 2, 4, 6"
+  ],
+  "a": 1,
+  "m": "Fonetika",
+  "izah": "Qoşa kar samitlərdə ikincisi cingiltiləşir: təfəkkür [təfəkgür], müfəttiş [müfətdiş], libretto [libretdo], hoppanmaq [hopbanmaq]. ff, ss dəyişmir."
+ },
+ {
+  "q": "Hansı nümunədə söz birləşməsi yoxdur?",
+  "o": [
+   "Bu, tarixi abidədir.",
+   "Qeyrətli oğul vətənpərvər olar",
+   "Kəndə çatanda axşamüstü idi.",
+   "Qatar stansiyaya yaxınlaşdı.",
+   "Yaşamaq gözəl duyğudur"
+  ],
+  "a": 3,
+  "m": "Söz birləşmələri",
+  "izah": "Digər cümlələrdə birləşmə var: tarixi abidə, qeyrətli oğul, kəndə çatanda, gözəl duyğu."
+ },
+ {
+  "q": "Müxtəlif nitq hissələrinə aid olan eyniköklü sözləri müəyyən edin.",
+  "o": [
+   "daşlı, daşsız, daşdakı",
+   "gülçü, güldan, gülüstan",
+   "bağban, bağça, bağlıq",
+   "döyün(mək), döyül(mək), döydür(mək)",
+   "xətsiz, xətkeş, xətlə(mək)"
+  ],
+  "a": 4,
+  "m": "Eyniköklü sözlər",
+  "izah": "xətsiz (sifət), xətkeş (isim), xətlə(mək) (feil) – kök eyni “xət”, nitq hissələri müxtəlifdir."
+ },
+ {
+  "q": "Nümunələrin birində feil ilə omonim olan ədat işlənmişdir",
+  "o": [
+   "Gəlin axşam bizə, imtahana hazırlaşaq",
+   "Çalışın, hamını bir gözlə görün",
+   "Gəl o barədə sonra danışaq",
+   "Bunları götürdüyün yerə qoy",
+   "Onların işinə lap diqqətlə bax"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Gəl” burada çağırış-təklif bildirən ədatdır və “gəlmək” feili ilə omonimdir."
+ },
+ {
+  "q": "Cümlələrdən birində ismi birləşmənin tərəfləri arasına söz daxil edilmişdir",
+  "o": [
+   "Düşmənlərin arzusu ürəklərində qalacaqdır",
+   "Meşə gözətçisi hələ ömründə belə nəhəng ayı görməmişdi",
+   "Vətən torpağı bizim üçün müqəddəsdir",
+   "Tərtər rayonunun qocaman müəllimləri qurultayın fəxri qonaqları idilər",
+   "Vahid bacarıqlı idman ustasıdır."
+  ],
+  "a": 3,
+  "m": "Söz birləşmələri",
+  "izah": "“rayonunun … müəllimləri” ismi birləşməsinin tərəfləri arasına “qocaman” sözü daxil olub."
+ },
+ {
+  "q": "“Sadiq”, “sabiq”, “tədqiq”, “şoranlıq” sözlərinin hamısına aid OLMAYAN fikri müəyyən edin:",
+  "o": [
+   "Tərkibində həm açıq, həm qapalı sait var.",
+   "Yazılışı ilə deyilişi fərqlidir.",
+   "Vurğusu son hecaya düşür.",
+   "Son samiti [k`] şəklində tələffüz olunur.",
+   "Kar samitlə başlayıb kar samitlə bitir."
+  ],
+  "a": 3,
+  "m": "Fonetika",
+  "izah": "“Şoranlıq” sözünün son samiti [x] kimi tələffüz olunur, ona görə bu fikir dördünə birlikdə aid deyil."
+ },
+ {
+  "q": "Hansı cümlədə omonimliyi olan sabit söz birləşməsi işlənib?\n1. Qılınclar, nizələr keçdi döşündən, / Cəllada can verdi dilində “Vətən!”. (S. Vurğun)\n2. Mən iki gündür, Novruz bəyə söz vermişəm, onlara qonaq gedəcəyəm. (C. Cabbarlı)\n3. Al, yaşıl geyinib durma qarşımda, / Yayın bəd nəzərdən, göz dəyər sana. (Qurbani)\n4. Sarvan dəqiq cavab vermir, dilini sürüyürdü.\n5. Üz vermə nadana, sirr vermə pisə, / Axır qəlbin ya inciyə, ya küsə. (Xəstə Qasım)",
+  "o": [
+   "2, 4",
+   "1, 2, 5",
+   "2, 3, 5",
+   "1, 4, 5",
+   "1, 3"
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "“Can vermək”, “söz vermək”, “üz vermək” bir neçə mənada işlənən, omonimliyi olan sabit birləşmələrdir."
+ },
+ {
+  "q": "Eyniköklü sözlər hansılardır?\n1. qurğu 2. qurğuşun 3. qurşun 4. qurucu 5. qurtuluş 6. quraqlıq 7. qurum",
+  "o": [
+   "2, 3, 7",
+   "1, 4, 7",
+   "1, 3, 5",
+   "2, 4, 6",
+   "1, 5, 6"
+  ],
+  "a": 1,
+  "m": "Eyniköklü sözlər",
+  "izah": "qurğu, qurucu, qurum – “qur(maq)” kökündəndir. Qurğuşun, qurşun, qurtuluş, quraqlıq başqa köklərdir."
+ },
+ {
+  "q": "Verilmiş cümlələrdə köməkçi nitq hissələrinin işlənmə ardıcıllığını müəyyən edin\n1. Ən böyük bəla tale ilə razılaşa bilməməkdir.\n2. Sərlövhə kitabın yol göstəricisi olduğu üçün onu elə yazmaq lazımdır ki, öz vəzifəsinə uyğun olsun.",
+  "o": [
+   "ədat, qoşma, qoşma, bağlayıcı",
+   "ədat, bağlayıcı, qoşma, bağlayıcı",
+   "qoşma, qoşma, ədat, bağlayıcı",
+   "ədat, qoşma, ədat, ədat",
+   "qoşma, bağlayıcı, qoşma, ədat"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "1-ci cümlədə: ən (ədat), ilə (qoşma); 2-ci cümlədə: üçün (qoşma), ki (bağlayıcı)."
+ },
+ {
+  "q": "Sözlərdən birində səslərin sayı hərflərin sayından çoxdur:",
+  "o": [
+   "qəsd",
+   "hökmdar",
+   "qəsb",
+   "qənd",
+   "dostluq"
+  ],
+  "a": 1,
+  "m": "Fonetika",
+  "izah": "Tələffüzdə [hökümdar] deyilir: araya “ü” saiti artır, səslər hərflərdən çox olur."
+ },
+ {
+  "q": "Eyniköklü sözləri müəyyən edin.\n1. dəyənək 2. dəyişik 3. dəyirman 4. dəyişkən 5. dəyirmi 6. dəyərli",
+  "o": [
+   "1, 2",
+   "2, 3, 5",
+   "2, 4",
+   "3, 4, 6",
+   "1, 5, 6"
+  ],
+  "a": 2,
+  "m": "Eyniköklü sözlər",
+  "izah": "dəyişik və dəyişkən – “dəyiş(mək)” kökündəndir; digər sözlərin kökü fərqlidir."
+ },
+ {
+  "q": "“Başlamaq” sözünün düzgün tələffüz şəklini müəyyən edin.",
+  "o": [
+   "[başdamax]",
+   "[başlamax']",
+   "[başdamaq]",
+   "[başlamaq]",
+   "[başlamak]"
+  ],
+  "a": 0,
+  "m": "Fonetika",
+  "izah": "ş-dən sonra l → [d] olur, sonda q → [x]: [başdamax]."
+ },
+ {
+  "q": "Sinonimi olan sözlərin cərgəsini müəyyən edin.",
+  "o": [
+   "çətin, tərəqqi, varlı",
+   "dağ, təpə, yüksəklik",
+   "yaxşı, meşə, gözəl",
+   "böyük, dərə, kitab",
+   "məşhur, dəftər, gözəl"
+  ],
+  "a": 0,
+  "m": "Leksika",
+  "izah": "Bu sözlərin sinonimi var: çətin – müşkül, tərəqqi – inkişaf, varlı – dövlətli."
+ },
+ {
+  "q": "Hansı cümlələrdə modal söz işlənmişdir?\n1. Kaş gedib bu sözləri ona da deyəsən.\n2. Deyəsən, bu işdən onun xəbəri yoxdur.\n3. Uzaqlarda əzəmətli Qoşqar dağı görünür.\n4. Məncə, fikrim sənə çatmadı.\n5. Sanki olub-keçənlər yenidən təkrarlanırdı.",
+  "o": [
+   "1, 3, 5",
+   "1, 3, 4",
+   "2, 4, 5",
+   "1, 2, 4",
+   "2, 3, 5"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "deyəsən, məncə, sanki – modal sözlərdir. “Kaş” isə arzu ədatıdır."
+ },
+ {
+  "q": "Uyğunluğu müəyyən edin. “Gül” feilindən yaranır:\n1. eyniköklü sözlər\n2. eyni sözün müxtəlif formaları\na. -ən  b. -üstan  c. -üş  d. -dür  e. -məli",
+  "o": [
+   "1 – a, c; 2 – b, d",
+   "1 – a, d; 2 – c, e",
+   "1 – d, e; 2 – b, c",
+   "1 – c, d; 2 – a, e",
+   "1 – c, e; 2 – a, d"
+  ],
+  "a": 3,
+  "m": "Eyniköklü sözlər",
+  "izah": "-üş, -dür yeni söz yaradır (gülüş, güldür); -ən, -məli feilin formalarını düzəldir (gülən, gülməli)."
+ },
+ {
+  "q": "Cümlələrin birində işlənmiş əvəzlik heç bir köməkçi nitq hissəsi ilə omonimlik yaratmır",
+  "o": [
+   "Oğlunun belə cəsarətli danışmağı atanı sevindirirdi",
+   "Torpağı duz basdığı üçün kimi şəhərə, kimi də qonşu kəndlərə köçüb getmişdi",
+   "Elə məhəllələr vardır ki, indi də su üzünə həsrətdir",
+   "Sahədə gördüklərini atasına necə söyləyəcəkdi?",
+   "İndi qocanı hamı özünün yaxını hesab edirdi"
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Hamı” təyini əvəzlikdir; belə, kimi, elə, necə isə köməkçi nitq hissələri ilə omonimdir."
+ },
+ {
+  "q": "“Saxsı küplərin kölgəsi qapıya qədər düşürdü” cümləsində sözlərin nitq hissələrinə görə təhlilindəki səhvi müəyyən edin.",
+  "o": [
+   "Qədər - məsafə bildirən qoşmadır",
+   "Küplərin - yiyəlik halda olan isimdir",
+   "Qapıya - yönlük halda olan isimdir",
+   "Saxsı - sifətdir",
+   "Düşürdü - indiki zamanda olan sadə feildir"
+  ],
+  "a": 3,
+  "m": "Morfologiya",
+  "izah": "“Saxsı” materialın adıdır, isimdir; burada təyin vəzifəsində işlənib."
+ },
+ {
+  "q": "Eyniköklü sözlərin sırasını tamamlayın: çoxalmaq, çoxluq, çoxlu, ...",
+  "o": [
+   "çoxdur",
+   "çoxdankı",
+   "çoxu",
+   "çoxları",
+   "çoxumuz"
+  ],
+  "a": 1,
+  "m": "Eyniköklü sözlər",
+  "izah": "“Çoxdankı” yeni sözdür; çoxdur, çoxu, çoxları, çoxumuz isə “çox” sözünün formalarıdır."
+ },
+ {
+  "q": "Sinonim frazeoloji birləşmələri müəyyən edin.\n1. dəridən-qabıqdan çıxmaq, gecəsini gündüzünə qatmaq\n2. ağlına batmaq, tədbir tökmək\n3. dilə gəlmək, başa gəlmək\n4. əldən-ayaqdan düşmək, nəfəsi kəsilmək\n5. ələ almaq, canına yayılmaq\n6. qulaq asmaq, ağzına su alıb oturmaq",
+  "o": [
+   "1, 4",
+   "1, 2",
+   "3, 4, 5",
+   "3, 5, 6",
+   "2, 6"
+  ],
+  "a": 0,
+  "m": "Frazeologiya",
+  "izah": "1) çox çalışmaq; 4) çox yorulmaq – cütlüklər sinonimdir. Digərlərində mənalar fərqlidir."
+ },
+ {
+  "q": "“Nəzərə alın ki, uşaqlar körpəcə fidanlar kimidir” cümləsində sözlərlə bağlı səhvi müəyyənləşdirin.",
+  "o": [
+   "Ki - tabelilik bağlayıcıdır.",
+   "Uşaqlar — isimdir, adlıq haldadır.",
+   "Körpəcə — azaltma dərəcəsində olan sifətdir.",
+   "Nəzərə alın — əmr şəklində olan feildir",
+   "Kimi — xəbərlik şəkilçisi qəbul etmiş qoşmadır"
+  ],
+  "a": 2,
+  "m": "Morfologiya",
+  "izah": "Bu izah səhvdir. Qalanları doğrudur: ki – bağlayıcı, uşaqlar – adlıq hal, nəzərə alın – əmr, kimi – qoşma."
+ },
+ {
+  "q": "Həm qoşma, həm də sifət kimi işlənən sözləri müəyyən edin",
+  "o": [
+   "qədər, kimi",
+   "başqa, doğru",
+   "bəri, sonra",
+   "tərəf, qarşı",
+   "savayı, özgə"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "başqa: “səndən başqa” (qoşma) / “başqa adam” (sifət); doğru: “evə doğru” (qoşma) / “doğru söz” (sifət)."
+ },
+ {
+  "q": "Verilmiş nümunələrdə “elə” sözü qrammatik cəhətdən nədir? (Ardıcıllıqla müəyyənləşdirin )\n1. Elə nəsihətləri qulaqardına vurmaq olmaz.\n2. Fərid barədə hamı elə düşünürdü.\n3. Elə mən də belə yazmışam.",
+  "o": [
+   "əvəzlik, əvəzlik, ədat",
+   "ədat, sifət, zərf",
+   "ədat, əvəzlik, ədat",
+   "əvəzlik, ədat, əvəzlik",
+   "əvəzlik, əvəzlik, əvəzlik"
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "1) elə nəsihətlər – işarə əvəzliyi; 2) elə düşünürdü – əvəzlik; 3) Elə mən də – qüvvətləndirici ədat."
+ },
+ {
+  "q": "Antonim sözlərdir:",
+  "o": [
+   "səhər – axşam, dost – tanış, mülayim – coşqun",
+   "yavaş – asta, böyük – kiçik, əyri – düz",
+   "tez – cəld, az – çox, ağ – qara",
+   "aşkar – xəlvət, irəli – geri, əliaçıq – xəsis",
+   "yaxşı – yaman, dadlı – dadsız, bağlı – bağçalı"
+  ],
+  "a": 3,
+  "m": "Leksika",
+  "izah": "Hər üç cüt əks mənalıdır. Digər cərgələrdə sinonim (dost – tanış, tez – cəld) və ya uyğunsuz cütlər var."
+ },
+ {
+  "q": "“Kimi” qoşması “-dək qoşmasının sinonimi olduqda ismin hansı halında olan sözlə işlədilir və hansı mənanı bildirir?",
+  "o": [
+   "yönlük, məsafə",
+   "yönlük, bənzətmə",
+   "çıxışlıq, fərqləndirmə",
+   "yiyəlik, müqayisə",
+   "yönlük, istiqamət"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "Yönlük halda sözlə işlənib məsafə bildirir: “evə kimi” = “evədək”."
+ },
+ {
+  "q": "“Vicdan” sözünün fonetik xüsusiyyətləri ilə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "Vurğu son hecaya düşür.",
+   "Dörd cingiltili samit işlənmişdir.",
+   "Dodaqlanmayan bir incə və bir qalın sait vardır.",
+   "Yazılışı ilə deyilişi fərqlənmir.",
+   "Ahəng qanunu pozulmuşdur."
+  ],
+  "a": 3,
+  "m": "Fonetika",
+  "izah": "“Vicdan” sözünün tələffüzü yazılışından fərqlənir, ona görə bu fikir səhvdir."
+ },
+ {
+  "q": "“İclasda bəzi məsələləri diqqətlə araşdırdılar” cümləsindəki sözlərin morfoloji izahi ilə bağlı bağlı səhvi müəyyən edin.",
+  "o": [
+   "İclasda - yerlik halda olan zərfdir.",
+   "Bəzi - qeyri-müəyyən əvəzlikdir.",
+   "Məsələləri — isimdir, təsirlik haldadır.",
+   "Diqqətlə — zərfdir, isimdən düzəlmişdir",
+   "Araşdırdılar - xəbər şəklində olan feildir, keçmiş zamandadır"
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "“İclasda” zərf deyil, yerlik halda olan isimdir."
+ },
+ {
+  "q": "Köməkçi nitq hissələri ilə bağlı düzgün fikirləri müəyyənləşdirin.\n1. -mi sual ədatı ayrılıqda işlənə bilmir.\n2. Qoşmaların hamısı sözdən ayrı yazılır.\n3. Ədatlar öz aralarında sinonimlik yarada bilmir.\n4. Qoşmalar quruluşca yalnız sadə olur.\n5. Ha yerinə görə həm qüvvətləndirici, həm də əmr ədatı kimi işlənə bilir.",
+  "o": [
+   "4, 5",
+   "2, 3",
+   "1, 4, 5",
+   "1, 2, 3",
+   "3, 4"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "4 və 5 doğrudur. Məsələn, 2 səhvdir: -dək, -can, -tək kimi qoşmalar sözə bitişik yazılır."
+ },
+ {
+  "q": "Cümlələrin birində frazeoloji birləşmə işlənmişdir:",
+  "o": [
+   "Şuşadan Turşsuya gedən yol çox mənzərəlidir.",
+   "İsti yay günlərində hamı dəniz kənarına çıxır.",
+   "Həmid qazancdan əlini üzmüşdü.",
+   "O, gözəl, girdəsifət, gənc bir qız idi.",
+   "Rüstəmin ən böyük arzusu ali məktəbə daxil olmaqdır."
+  ],
+  "a": 2,
+  "m": "Frazeologiya",
+  "izah": "“Əlini üzmək” – ümidini kəsmək mənasında frazeoloji birləşmədir."
+ },
+ {
+  "q": "Hansı nümunələrdə birinci sözün son samiti cingiltili tələffüz OLUNMUR?\nI palıd qozası\nII armud ağacı\nIII dörd manat\nIV arıq uşaq\nV kitab satışı",
+  "o": [
+   "II, III",
+   "IV, V",
+   "II, V",
+   "I, III, IV",
+   "I, III, V"
+  ],
+  "a": 4,
+  "m": "Fonetika",
+  "izah": "Kar samitdən əvvəl kar deyilir: [palıt qozası], [dört manat], [kitap satışı]. Saitdən əvvəl cingiltili qalır."
+ },
+ {
+  "q": "“Qəlbisınıq adam” birləşməsinin asılı tərəfinin morfoloji xüsusiyyətləri ilə bağlı səhvi müəyyən edin",
+  "o": [
+   "Birinci tərəfi təsirlik hal şəkilçili isimdir",
+   "Necə? nə cür? suallarından birinə cavab verir",
+   "Adi dərəcədədir",
+   "Mürəkkəb sifətdir",
+   "İkinci tərəfi feildən düzəlmiş sifətdir"
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "Birinci tərəf “qəlbi” mənsubiyyət şəkilçili isimdir, təsirlik hal deyil."
+ },
+ {
+  "q": "“ki” hansı cümlədə ədat kimi işlənmişdir?",
+  "o": [
+   "Bildirki hadisə hələ də unudulmamışdı.",
+   "Dünənki hadisədən sonra fikrimi dəyişdirmişdim.",
+   "Qapı yenicə açılmışdı ki, Səlimənin səsi eşidildi.",
+   "O, qapının ağzında dayanmış gəncə çəpəki baxdı.",
+   "Sənə ki dəfələrlə demişəm ... ."
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Sənə ki” – ki qüvvətləndirici ədatdır. Digərlərində şəkilçi (-ki), bağlayıcı və ya sözün hissəsidir."
+ },
+ {
+  "q": "Sözlərdən yalnız biri omonim kimi işlənə bilər:",
+  "o": [
+   "əsr",
+   "gəlin",
+   "inci",
+   "nazik",
+   "atlas"
+  ],
+  "a": 2,
+  "m": "Leksika",
+  "izah": "“İnci” – qiymətli daş və “incimək” feilinin əmr forması; omonimdir."
+ },
+ {
+  "q": "Bir frazeoloji birləşmənin həm özü, həm də onun sinonimi və antonimi hansı sıradadır?",
+  "o": [
+   "zəhləsi getmək; acığı gəlmək; gözə gəlmək",
+   "burnunu sallamaq; qaş-qabağı yer süpürmək; sevinmək",
+   "söz vermək; vəd vermək; yola vermək",
+   "çiçəyi çırtlamaq; kefi açılmaq; qəm dəryasına batmaq",
+   "cana gəlmək; can vermək; yola düşmək"
+  ],
+  "a": 3,
+  "m": "Frazeologiya",
+  "izah": "çiçəyi çırtlamaq = kefi açılmaq (sinonim), qəm dəryasına batmaq – əks mənalı (antonim)."
+ },
+ {
+  "q": "“O, gözlərini rayona doğru uzanan asfalt yola dikdi” cümləsindəki sözlərin nitq hissələrinə görə izahı ilə bağlı səhv fikri müəyyən edin.",
+  "o": [
+   "Asfalt sifətdir, adi dərəcədədir.",
+   "Bir təsriflənməyən feil işlənmişdir.",
+   "Feillərin hər ikisi təsdiqdədir.",
+   "Gözlərini mənsubiyyət və təsirlik hal şəkilçisi qəbul etmiş isimdir.",
+   "Yönlük halda olan iki isim var."
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "“Asfalt” materialın adıdır, isimdir; sifət deyil."
+ },
+ {
+  "q": "Fərqləndirilmiş sözlərdən biri qrammatik mənasına görə digərlərindən fərqlənir",
+  "o": [
+   "Keçəl düzünü desə də, başına qapaz dəyər",
+   "Düşmənin gəlişi də, gülüşü də tələdir",
+   "El keçdiyi körpüdən sən də keç",
+   "Biri minə bağlıdır, mini də birə",
+   "Digər sahələrdə də uğurlarımız çoxdur."
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“desə də” – güzəşt bildirir (baxmayaraq ki). Digərlərində “də” qoşulma, qüvvətləndirmə bildirir."
+ },
+ {
+  "q": "Birinin yazılışı səhvdir:",
+  "o": [
+   "üzv",
+   "koridor",
+   "sir-sifət",
+   "töyşümək",
+   "sərhəd"
+  ],
+  "a": 3,
+  "m": "Fonetika",
+  "izah": "Düzgün yazılışı: tövşümək."
+ },
+ {
+  "q": "“Sıxıntı” və “sıxlaşmaq” sözlərinin kökünün hansı nitq hissəsinə aid olduğunu ardıcıllıqla müəyyən edin.",
+  "o": [
+   "sifət, sifət",
+   "feil, feil",
+   "feil, sifət",
+   "sifət, feil",
+   "feil, zərf"
+  ],
+  "a": 2,
+  "m": "Eyniköklü sözlər",
+  "izah": "sıxıntı – “sıx(maq)” feilindən; sıxlaşmaq – “sıx” sifətindən."
+ },
+ {
+  "q": "Nümunədə ədatın hansı məna növləri işlənmişdir?\nMənim nə dərdim var, təki sən yaşa!\nOf, Qacar ... vicdanın döndümü daşa? (S.Vurğun)",
+  "o": [
+   "arzu, təsdiq",
+   "arzu, sual",
+   "sual, inkar",
+   "dəqiqləşdirici, sual",
+   "arzu, dəqiqləşdirici"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“təki” – arzu ədatı; “döndümü” sözündəki -mü – sual ədatı."
+ },
+ {
+  "q": "Eyniköklü sözlərdən ibarət olan sıranı müəyyən edin.",
+  "o": [
+   "qızğın, qızdırıcı, qızılı",
+   "ovçu, ovlaq, ovuntu",
+   "üzgü, üzsüz, üzüntü",
+   "qırıq, qırğın, qırıcı",
+   "sürücü, sürgün, sürmək"
+  ],
+  "a": 3,
+  "m": "Eyniköklü sözlər",
+  "izah": "qırıq, qırğın, qırıcı – “qır(maq)” kökündəndir."
+ },
+ {
+  "q": "Biri omonim frazeoloji birləşmə hesab oluna BİLMƏZ:",
+  "o": [
+   "dilotu yemək",
+   "can vermək",
+   "başa vurmaq",
+   "ürəyi yanmaq",
+   "üz vermək"
+  ],
+  "a": 0,
+  "m": "Frazeologiya",
+  "izah": "“Dilotu yemək” yalnız “çox danışmaq” mənasındadır, omonimi yoxdur."
+ },
+ {
+  "q": "Qədər sözü hansı cümlədə qoşmadır?",
+  "o": [
+   "Konfransda ona qədər məruzə dinlənildi.",
+   "Bir qədər çaydan uzaq od qalamış dağda çoban. (A. Səhhət)",
+   "Nə qədər çox ucalsan da, lovğalanma.",
+   "Bir yanım alqışdi, bir yanım qarğış, Qədər məni çəkdi qarğışa doğru. (M. Aslan)",
+   "O qədər isti idi ki, çölə çıxmaq mümkün deyildi."
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“ona qədər” – təxminən on; “qədər” burada qoşmadır."
+ },
+ {
+  "q": "Biri “batmaq” sözünün sinonimi ola bilər:",
+  "o": [
+   "süst olmaq",
+   "əlbir olmaq",
+   "qərq olmaq",
+   "viran olmaq",
+   "məyus olmaq"
+  ],
+  "a": 2,
+  "m": "Leksika",
+  "izah": "“Batmaq” (suya, fikrə batmaq) = qərq olmaq."
+ },
+ {
+  "q": "Köməkçi nitq hissələrinin yalnız birinə aid ola bilir",
+  "o": [
+   "ancaq",
+   "ilə",
+   "bəri",
+   "hətta",
+   "yəni"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Bəri” yalnız qoşmadır. ancaq, ilə, hətta, yəni bir neçə köməkçi nitq hissəsi kimi işlənir."
+ },
+ {
+  "q": "“Zəhmli” sözünün fonetik xüsusiyyətləri ilə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "Ahəng qanununa tabedir.",
+   "Həm açıq, həm də qapalı sait vardır.",
+   "Hər üç hecanın tərkibində incə sait var.",
+   "Vurğusu 2-ci hecadadır.",
+   "Üç samitin qarşılığı yoxdur."
+  ],
+  "a": 2,
+  "m": "Fonetika",
+  "izah": "“Zəhmli” ikihecalıdır (zəhm-li), ona görə “üç heca” fikri səhvdir."
+ },
+ {
+  "q": "“Yaşatmaq” sözünün tərkibində işlənib:",
+  "o": [
+   "1 leksik, 1 qrammatik şəkilçi",
+   "2 leksik, 1 qrammatik şəkilçi",
+   "1 qrammatik şəkilçi",
+   "2 qrammatik şəkilçi",
+   "3 leksik şəkilçi"
+  ],
+  "a": 1,
+  "m": "Söz yaradıcılığı",
+  "izah": "yaş + a + t + maq: -a, -t leksik, -maq qrammatik şəkilçidir."
+ },
+ {
+  "q": "Tək sözünün qoşma olduğu cümləni müəyyənləşdirin.",
+  "o": [
+   "Lalə (tək) qızarmaq üz qaydasıdır. (M.P. Vaqıf)",
+   "(Tək) qalanda öz-özümlə bu barədə çox götür-qoy etmişəm.",
+   "Ailədə (tək) uşaq olduğu üçün şıltaq idi.",
+   "(Tək) əldən səs çıxmaz.",
+   "Mən (tək) səninlə gedə bilərəm."
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Lalə tək” = lalə kimi; “tək” bənzətmə bildirən qoşmadır."
+ },
+ {
+  "q": "İşarələnmiş sözlərin tərkibindəki “-ca, -cə nitq hissəsi baxımından nədir? (Ardıcıllıqla müəyyən edin.)\n1. Anam rusca təhsil almışdır\n2. Dayım “Onda zərrəcə ağıl yox imiş” .-dedi\n3. Məmmədxanın bircə yaşı var idi",
+  "o": [
+   "zərf düzəldən şəkilçi, qoşma, ədat",
+   "ədat, ədat, ədat",
+   "bağlayıcı, zərf düzəldən şəkilçi, ədat",
+   "zərf düzəldən şəkilçi, qoşma, qoşma",
+   "zərf düzəldən şəkilçi, bağlayıcı, ədat"
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "rusca – zərf düzəldən şəkilçi; zərrəcə – qoşma; bircə – məhdudlaşdırıcı ədat."
+ },
+ {
+  "q": "“Qabaqlayıcı tədbirlər” söz birləşməsində asılı sözün tərkibində işlənib:",
+  "o": [
+   "3 leksik şəkilçi",
+   "2 leksik şəkilçi",
+   "1 leksik, 1 qrammatik şəkilçi",
+   "2 leksik, 1 qrammatik şəkilçi",
+   "2 qrammatik şəkilçi"
+  ],
+  "a": 1,
+  "m": "Söz yaradıcılığı",
+  "izah": "qabaq + la + yıcı – iki leksik şəkilçi."
+ },
+ {
+  "q": "Birləşmələrdən birinin asılı tərəfi fərqli nitq hissəsidir",
+  "o": [
+   "insanların taleyi",
+   "təcili yardım",
+   "şirin meyvə",
+   "zaldakıların gülüşü",
+   "maraqlı əsər"
+  ],
+  "a": 0,
+  "m": "Söz birləşmələri",
+  "izah": "Asılı tərəf “insanların” – isimdir; digər birləşmələrdə asılı tərəf əlamət bildirir."
+ },
+ {
+  "q": "Hansı cümlədə bağlayıcı cümlə üzvlərini bağlamışdır?",
+  "o": [
+   "Azadlıq xurma deyil ki, yetişməsini gözləyəsən",
+   "Mükəmməl nəzəriyyə ilə zəngin təcrübə uğurlu əmələ çevrilir",
+   "Təbiət incəsənətin əbədi nümunəsi, insan isə təbiətin ən mükəmməl əsəridir. (O. Balzak)",
+   "Ölmək yaşamaqdır, amma sərsəm yaşayış ömrə yamaqdır. (H. Cavid)",
+   "Əgər asudəlik istəyirsənsə, vaxtını hədər yerə itirmə. (Ü. Hacıbəyli)"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“ilə” burada iki həmcins mübtədanı (nəzəriyyə, təcrübə) bağlayır."
+ },
+ {
+  "q": "Hansı sözdə nöqtələrin yerinə “i” hərfi yazılmalıdır?",
+  "o": [
+   "r...sum",
+   "n...fuz",
+   "b...llur",
+   "s...xur",
+   "f...ruzə"
+  ],
+  "a": 4,
+  "m": "Fonetika",
+  "izah": "Düzgün yazılışı: firuzə."
+ },
+ {
+  "q": "“Məruzəçi Qarabağ məsələsinə də toxundu” cümləsinin morfoloji xüsusiyyətləri ilə bağlı səhvi müəyyən edin.\n1. Məruzəçi — düzəltmə isimdir, adlıq haldadır\n2. Qarabağ - xüsusi isimdir, adlıq haldadır.\n3. Məsələsinə — isimdir, mənsubiyyət və hal şəkilçisi qəbul etmişdir\n4. Də - qüvvətləndirici ədatdır.\n5. Toxundu — düzəltmə, qayıdış növdə, keçmiş zamanda olan feildir.",
+  "o": [
+   "3, 4, 5",
+   "1, 4",
+   "2, 4, 5",
+   "1, 5",
+   "2, 3"
+  ],
+  "a": 2,
+  "m": "Morfologiya",
+  "izah": "1 və 3 doğrudur. 2, 4, 5 səhvdir, məsələn, “Qarabağ” burada qeyri-müəyyən yiyəlik haldadır."
+ },
+ {
+  "q": "Frazeoloji birləşmələrlə bağlı SƏHV fikirdir:",
+  "o": [
+   "Yalnız məcazi məna ifadə edir.",
+   "Formaca dəyişmir.",
+   "Tərkibindəki sözlər öz həqiqi mənalarını itirib məcazi mənada işlənir.",
+   "Əsas və asılı tərəfi olmur.",
+   "Nitqdə xüsusi məcazlıq, ifadəlilik yaradır."
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "Frazeoloji birləşmələr şəkilçi qəbul edərək dəyişir: əlini üzdü, əlini üzmüşdü."
+ },
+ {
+  "q": "Eyniköklü sözlərdir:",
+  "o": [
+   "üzgü, üzük, üzlü",
+   "yağış, yağmur, yağdı",
+   "çökək, çöküntü, çökəklik",
+   "yazan, yazı, yazıçı",
+   "başçı, başla, başımız"
+  ],
+  "a": 2,
+  "m": "Eyniköklü sözlər",
+  "izah": "çökək, çöküntü, çökəklik – “çök(mək)” kökündəndir."
+ },
+ {
+  "q": "Sözə qoşularaq məsafə mənası yaradan qoşmaları müəyyən edin.",
+  "o": [
+   "kimi, qədər, -tək",
+   "tərəf, sarı, doğru",
+   "-can, kimi, -dək",
+   "qədər, -tək, sonra",
+   "əvvəl, sonra, bəri"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "Hamısı məsafə həddi bildirir: evəcən, evə kimi, evədək."
+ },
+ {
+  "q": "“Unutqanlığımızdandır” sözünün tərkibində işlənib:",
+  "o": [
+   "2 leksik, 2 qrammatik şəkilçi",
+   "1 leksik, 3 qrammatik şəkilçi",
+   "3 qrammatik şəkilçi",
+   "3 leksik, 2 qrammatik şəkilçi",
+   "2 leksik, 3 qrammatik şəkilçi"
+  ],
+  "a": 4,
+  "m": "Söz yaradıcılığı",
+  "izah": "unut + qan + lıq (2 leksik) + ımız + dan + dır (3 qrammatik)."
+ },
+ {
+  "q": "Nümunə ilə bağlı düzgün fikirləri müəyyən edin.\nQoymaram yadları girsin qoynuna, İzin ver, qolumu salım boynuna. (S. Rüstəm)\n1. Həm təsriflənən həm də, təsriflənməyən feil işlənmişdir\n2. Hər üç şəxsin təkinə aid əmr şəklində olan feil var\n3. Feillərin hamısı məlum növdədir\n4. Yalnız isim və feillərdən ibarətdir\n5. Feillərin biri gələcək zamanda inkardadır\n6. Adlıq, təsirlik, yönlük halda olan isimlər vardır",
+  "o": [
+   "2, 3, 5",
+   "1, 4, 6",
+   "1, 2, 3",
+   "3, 5, 6",
+   "2, 4, 5"
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "girsin, ver, salım – üç şəxsdə əmr; feillər məlum növdədir; “qoymaram” – gələcək zaman, inkar."
+ },
+ {
+  "q": "Eyniköklü sözlər cərgəsini müəyyən edin.",
+  "o": [
+   "gülüş, gülümsəmək, güləyən",
+   "aldı, alır, alıcı",
+   "ürəkli, ürəyimiz, ürəksiz",
+   "qurucu, quruluq, quraqlıq",
+   "yağış, yağıntı, yağmadı"
+  ],
+  "a": 0,
+  "m": "Eyniköklü sözlər",
+  "izah": "gülüş, gülümsəmək, güləyən – “gül(mək)” kökündəndir."
+ },
+ {
+  "q": "Frazeoloji birləşmələrdən birinin sinonimi düzgün verilmişdir:",
+  "o": [
+   "ürəyi istəmək – ürək qızdırmaq",
+   "yola düşmək – əl-ayağa düşmək",
+   "yadına düşmək – üz ağartmaq",
+   "qəlbinə yol tapmaq – ürəyini ələ almaq",
+   "dünyadan dördəlli yapışmaq – hər şeydən əlini üzmək"
+  ],
+  "a": 3,
+  "m": "Frazeologiya",
+  "izah": "Hər ikisi “birinin rəğbətini qazanmaq” mənasındadır."
+ },
+ {
+  "q": "Cümlələrdən birində üç ədat işlənmişdir:",
+  "o": [
+   "Məgər sən elə danışmamışdın ki?",
+   "Gəlsənə tətildə bir Şamaxıya da gedək.",
+   "Bəli, artıq uşağı da özünlə apara bilərsən.",
+   "Olduqca gözəl bir rəsm əsərinə görə mükafat aldı.",
+   "Elə ancaq buna görəmi incimişdin?"
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "elə, ancaq, -mı – üç ədat."
+ },
+ {
+  "q": "Eyniköklü sözlər cərgəsini müəyyən edin.",
+  "o": [
+   "natəmiz, təmizləmək, təmizlik",
+   "xeyir, xeyirxah, xeyirdən",
+   "yaylaq, yaylamaq, yayılmaq",
+   "daşsız, daşdakı, daşqın",
+   "sıxlaşmaq, sıxılmaq, sıxıntı"
+  ],
+  "a": 0,
+  "m": "Eyniköklü sözlər",
+  "izah": "natəmiz, təmizləmək, təmizlik – “təmiz” kökündəndir."
+ },
+ {
+  "q": "Həm qoşma, həm də əsas nitq hissələri kimi işlənən sözləri müəyyən edin.",
+  "o": [
+   "başqa, sonra, sarı",
+   "kimi özgə, savayı",
+   "qədər, üçün, doğru",
+   "ilə, ötrü, qədər",
+   "görə, aid, əsasən"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "başqa (qoşma/sifət), sonra (qoşma/zərf), sarı (qoşma/sifət)."
+ },
+ {
+  "q": "“Küçələrdə və meydanlarda böyük izdiham gördüm” cümləsindəki sözlərin morfoloji izahi ilə bağlı səhvi müəyyən edin",
+  "o": [
+   "İzdiham - adlıq halda olan isimdir",
+   "Küçələrdə, meydanlarda - yerlik halda olan isimlərdir",
+   "Və -bağlayıcıdır",
+   "Böyük - düzəltmə sifətdir",
+   "Gördüm -- məlum növdə olan feildir, xəbər şəklindədir."
+  ],
+  "a": 0,
+  "m": "Morfologiya",
+  "izah": "“İzdiham” qeyri-müəyyən təsirlik haldadır (nəyi gördüm?), adlıq hal deyil."
+ },
+ {
+  "q": "Söz birləşmələri haqqında səhv fikirdir:",
+  "o": [
+   "Tərəfləri sadə və mürəkkəb sözlərdən ibarət olur.",
+   "Əsas və asılı tərəfləri olur.",
+   "Fikir bitkinliyinə malik olmur.",
+   "Tərəfləri həm adlarla, həm də feillərlə ifadə olunur",
+   "Baş üzvlər vəzifəsində çıxış edə bilmir."
+  ],
+  "a": 4,
+  "m": "Söz birləşmələri",
+  "izah": "Söz birləşmələri mübtəda, xəbər kimi baş üzv vəzifəsində də çıxış edə bilir."
+ },
+ {
+  "q": "Hansı cümlədə nida işlənmişdir?",
+  "o": [
+   "Unutma bu böyük kamalı, yaylaq! (Aşıq Ələsgər)",
+   "Sənin hər qəhqəhən ay kənarından Keçən buludmudur, uçan quşmudur? (S. Vurğun)",
+   "Ay, gün kimi alışanın nə dərdi var, nə qəmi var!",
+   "Müxənnət yapışar ayağa, Qarqar (Aşıq Ələsgər)",
+   "Çığırma, yat, ay ac toyuq, yuxunda çoxlu darı gör."
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“ay ac toyuq” – “ay” müraciət bildirən nidadır. Digərlərində “ay” isimdir və ya nida yoxdur."
+ },
+ {
+  "q": "Frazeoloji birləşmələrlə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "“Könlünə toxunmaq” və “qəlbinə dəymək” sinonimdir.",
+   "“Qaş-qabağı yer süpürmək” və “bikef olmaq” sinonimdir.",
+   "“Dərdə düşmək” və “çiçəyi çırtlamaq” antonimdir.",
+   "“Anadan olmaq” və “doğulmaq” frazeoloji sinonim sayıla bilməz.",
+   "“Günəş doğdu” və “gün batdı” frazeoloji birləşmə deyil."
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "“Bikef olmaq” frazeoloji birləşmə deyil, ona görə frazeoloji sinonim sayılmır."
+ },
+ {
+  "q": "Hansı cümlədə “düz” sözü “lap” ədatının sinonimidır?",
+  "o": [
+   "Çevrə düz xətt vasitəsilə iki bərabər hissəyə bölünür",
+   "Düz əyrini kəsər.",
+   "Doğru sözə, düz ilqara aşiqəm.",
+   "Söz, deyəsən, gəlib düz bizim gözlədiyimiz mətləbin üstünə çıxmışdı.",
+   "İlkin düz danışmağı xoşlayırdı."
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“düz bizim gözlədiyimiz…” – düz = lap, elə; qüvvətləndirici ədat mənasındadır."
+ },
+ {
+  "q": "“Bənövşə” sözünün fonetik xüsusiyyətləri ilə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "Tərkibində dodaqlanan sait yoxdur.",
+   "Saitlərin heç biri uzun tələffüz edilmir.",
+   "Yazılışı ilə deyilişi fərqlənmir.",
+   "Saitlərin hamısı açıqdır.",
+   "Saitlər incədir."
+  ],
+  "a": 0,
+  "m": "Fonetika",
+  "izah": "“ö” dodaqlanan saitdir, ona görə “dodaqlanan sait yoxdur” fikri səhvdir."
+ },
+ {
+  "q": "Verilən fikirləri hansı sözə aid etmək olar?\n• Eyni nitq hissəsinə aid omonimdir.\n• Termin kimi işlənə bilir.\n• Çoxmənalı sözdür.",
+  "o": [
+   "bağ",
+   "süjet",
+   "darğa",
+   "burun",
+   "dar"
+  ],
+  "a": 3,
+  "m": "Leksika",
+  "izah": "burun – bədən üzvü, coğrafi termin (dənizə uzanan quru), çoxmənalıdır (gəminin burnu)."
+ },
+ {
+  "q": "Cümlənin ortasında işlənəndə əvvəlində vergül qoyulan tabesizlik bağlayıcılarından ibarət cərgəni müəyyən edin",
+  "o": [
+   "ancaq, həm, hərgah",
+   "çünki, halbuki, məsələn",
+   "lakin, həmçinin, habelə",
+   "və, lakin, gah",
+   "amma, belə ki, məsələn"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "lakin, həmçinin, habelə – cümlənin ortasında işlənəndə əvvəlində vergül qoyulur."
+ },
+ {
+  "q": "“Böyüklərimizdən” sözünün tərkibində işlənib:",
+  "o": [
+   "3 qrammatik şəkilçi",
+   "1 leksik, 2 qrammatik şəkilçi",
+   "1 leksik, 3 qrammatik şəkilçi",
+   "2 leksik, 2 qrammatik şəkilçi",
+   "3 leksik, 1 qrammatik şəkilçi"
+  ],
+  "a": 2,
+  "m": "Söz yaradıcılığı",
+  "izah": "böy + ük (1 leksik) + lər + imiz + dən (3 qrammatik)."
+ },
+ {
+  "q": "Frazeoloji birləşmələrdən biri “mürgüləmək” mənasına uyğundur:",
+  "o": [
+   "gözə kül üfürmək",
+   "gözünün acısını almaq",
+   "gözü yol çəkmək",
+   "gözü kəlləsinə çıxmaq",
+   "gözünün suyunu axıtmaq"
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "“Gözünün acısını almaq” – azca yatmaq, mürgüləmək."
+ },
+ {
+  "q": "“Dözümsüzlüyümüz” sözünün tərkibində işlənib:",
+  "o": [
+   "3 leksik şəkilçi",
+   "3 leksik, 1 qrammatik şəkilçi",
+   "2 leksik, 1 qrammatik şəkilçi",
+   "3 qrammatik şəkilçi",
+   "2 leksik, 3 qrammatik şəkilçi"
+  ],
+  "a": 1,
+  "m": "Söz yaradıcılığı",
+  "izah": "döz + üm + süz + lük (3 leksik) + ümüz (1 qrammatik)."
+ },
+ {
+  "q": "Hansı cümlədə “ki” ədat kimi işlənib? (Durğu işarələri buraxılmışdır)",
+  "o": [
+   "Elə yaşa ki sonra utanmayasan.",
+   "Atalar deyib ki bu günün işini sabaha qoyma.",
+   "Mən bilirəm ki zəhmət qiymətsiz qalmaz.",
+   "Onun ki bu məsələdən xəbəri yoxdur.",
+   "Danış ki ürəyin boşalsın."
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Onun ki” – ki qüvvətləndirici ədatdır; digərlərində bağlayıcıdır."
+ },
+ {
+  "q": "“Neftçıxarma”, “nefttəmizləyən” sözlərinin fonetik xüsusiyyətləri ilə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "Hər iki sözdə bütün hecalar samitlə başlayır.",
+   "Hər iki sözdə vurğu son hecaya düşür.",
+   "Birinci söz 4, ikinci söz 5 hecalıdır.",
+   "Hər iki sözdə uzun sait yoxdur.",
+   "Hər iki sözdə kar samitlərin sayı bərabərdir."
+  ],
+  "a": 4,
+  "m": "Fonetika",
+  "izah": "Neftçıxarmada 4 kar samit (f, t, ç, x), nefttəmizləyəndə 3 (f, t, t) var – bərabər deyil."
+ },
+ {
+  "q": "Tərkibində modal söz işlənən cümləni müəyyən edin.",
+  "o": [
+   "Doğru sözə, düz ilqara aşiqəm.",
+   "Doğrudur ki, o, səni tanımayıb?",
+   "Sözün doğrusu həmişə acı olar.",
+   "Doğrusu, onu öz ixtiyarına buraxmaq da olmaz.",
+   "Deyilənlərin hamısı doğrudur."
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Doğrusu” vergüllə ayrılan modal sözdür; digərlərində “doğru” başqa nitq hissəsidir."
+ },
+ {
+  "q": "Eyniköklü sözlər sırasını müəyyən edin.",
+  "o": [
+   "dəftərçə, dəftərlər, dəftərin",
+   "dağlıq, dağda, dağıntı",
+   "gözlük, gözcük, gözləmək",
+   "bağımız, bağlardakı, bağla(maq)",
+   "işlərimiz, işlədik, işçilər"
+  ],
+  "a": 2,
+  "m": "Eyniköklü sözlər",
+  "izah": "gözlük, gözcük, gözləmək – “göz”dən yaranan yeni sözlər. Digər cərgələrdə sözün formaları var."
+ },
+ {
+  "q": "Hansı söz bu xüsusiyyətlərin hamısına uyğundur?\n• Yazılışı ilə deyilişi fərqlidir\n• Qarşılığı olmayan samitlə bitir\n• Vurğusu ikinci hecadadır\n• Qarşılığı olmayan dörd samit işlənmişdir",
+  "o": [
+   "nəvazişlə",
+   "nifrətlə",
+   "nadanlıq",
+   "həvəslə",
+   "sədrlik"
+  ],
+  "a": 1,
+  "m": "Fonetika",
+  "izah": "“Nifrətlə” [nifrətnən] kimi tələffüz olunur və verilən əlamətlərin hamısına uyğundur."
+ },
+ {
+  "q": "Eyniköklü OLMAYAN sözləri müəyyən edin.",
+  "o": [
+   "işçi, işsiz, işlə(mək)",
+   "yazış(maq), yazdır(maq), yazıçı",
+   "sulu, susuz, sula(maq)",
+   "bilik, bilici, bilək",
+   "daşlı, daşsız, daşla(maq)"
+  ],
+  "a": 3,
+  "m": "Eyniköklü sözlər",
+  "izah": "“Bilək” (qolun hissəsi) “bil(mək)” feili ilə eyniköklü deyil."
+ },
+ {
+  "q": "Nümunələrin birinin sonunda buraxılmış durğu işarəsi cümlənin sonundakı köməkçi nitq hissəsi əsasında asanlıqla bərpa oluna bilər:",
+  "o": [
+   "Yuxarılarda da sənin kimi düşünənlərin sayı az deyil hətta",
+   "Bizə tapşırılıb ki quyunun lap dərinliyinə enək də",
+   "Bütün baş verən hadisələrə münasibət bildirmədin bəs",
+   "Gənclərmi bu barədə düşünməlidirlər",
+   "O bu işdə ancaq özünü günahkar hesab edir, təkcə özünü danlayırdı axı"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“bəs” sual ədatıdır, cümlənin sonunda sual işarəsi qoyulmalıdır."
+ },
+ {
+  "q": "Söz birləşmələrinin hansında asılı sözün son samiti kar tələffüz olunur?",
+  "o": [
+   "armud ağacı",
+   "ürək ağrısı",
+   "qənd zavodu",
+   "rəssam fırçası",
+   "uşaq ayaqqabısı"
+  ],
+  "a": 2,
+  "m": "Fonetika",
+  "izah": "“qənd” sözünün son samiti kar deyilir: [qənt zavodu]."
+ },
+ {
+  "q": "Hansı cümlədə qoşma işlənməmişdir?",
+  "o": [
+   "Həsən hər imtahandan sonra onun yanına gələrdi",
+   "Nahar qurtarandan sonra ayağa qalxdılar",
+   "Bir az bundan əvvəl baş verən döyüş xəyalında yenidən canlandı",
+   "Ay görünəndən sonra ulduzlar solğunlaşdı və titrəşdi",
+   "Əvvəlcə onun çatma qaşları, sonra tanış səsi müəllimə kimi isə xatırlatdı"
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“sonra” burada zaman zərfidir; digər cümlələrdə “-dan sonra”, “bundan əvvəl” qoşmadır."
+ },
+ {
+  "q": "Eyniköklü sözlər cərgəsini müəyyən edin.",
+  "o": [
+   "kəskin, kəsik, kəsil(mək)",
+   "yaraq, yarış, yardım",
+   "dinlə, dinsiz, dindar",
+   "danla, danış, danlaq",
+   "bilici, bilik, bilək"
+  ],
+  "a": 0,
+  "m": "Eyniköklü sözlər",
+  "izah": "kəskin, kəsik, kəsil(mək) – “kəs(mək)” kökündəndir."
+ },
+ {
+  "q": "Biri omonim frazeoloji birləşmə hesab oluna bilər:",
+  "o": [
+   "əldən düşmək",
+   "başa vurmaq",
+   "gözdən düşmək",
+   "gözə gəlmək",
+   "xoşu gəlmək"
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "“Başa vurmaq” – 1) bitirmək; 2) başına zərbə endirmək. Omonimdir."
+ },
+ {
+  "q": "Cümlələrdən birində “tək ” sözü ədat kimi işlənmişdir:",
+  "o": [
+   "O, universitetə tək getmişdi.",
+   "Evdə tək qalmaq qorxulu deyildi",
+   "Səlim ailənin tək övladıdır.",
+   "Tək o bu işi bacara bilərdi.",
+   "Eldar pəhləvantək meydana atıldı"
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Tək o” = yalnız o; məhdudlaşdırıcı ədatdır."
+ },
+ {
+  "q": "Eyniköklü sözləri müəyyən edin.",
+  "o": [
+   "bağım, bağımız, bağban",
+   "yazır, yazdı, yazmışdır",
+   "əlcək, əlcəksiz, əldən",
+   "gözlə(mək), gözsüz, gözlü",
+   "qələmin, qələmə, qələmdə"
+  ],
+  "a": 3,
+  "m": "Eyniköklü sözlər",
+  "izah": "gözlə(mək), gözsüz, gözlü – “göz” kökündəndir."
+ },
+ {
+  "q": "“İşlədilmişdir” sözünün tərkibində işlənib:",
+  "o": [
+   "1 leksik, 3 qrammatik şəkilçi",
+   "2 leksik, 2 qrammatik şəkilçi",
+   "3 leksik, 1 qrammatik şəkilçi",
+   "3 leksik, 2 qrammatik şəkilçi",
+   "1 leksik, 2 qrammatik şəkilçi"
+  ],
+  "a": 3,
+  "m": "Söz yaradıcılığı",
+  "izah": "iş + lə + d + il (3 leksik) + miş + dir (2 qrammatik)."
+ },
+ {
+  "q": "Nümunənin hansı misrasında omonim kimi işlənə bilən söz YOXDUR?\nI Ceyranım dağdan aşdı,\nII Mənim, gözüm qamaşdı.\nIII Yarla üz-üzə gəldim,\nIV Birdən dilim dolaşdı. (Bayatı)",
+  "o": [
+   "yalnız III",
+   "I, IV",
+   "yalnız II",
+   "I, II",
+   "III, IV"
+  ],
+  "a": 2,
+  "m": "Leksika",
+  "izah": "II misrada omonim yoxdur; digərlərində aşdı, üz, dil kimi omonimlər var."
+ },
+ {
+  "q": "Hansı cümlədə həm ədat, həm də modal söz işlənmişdir?",
+  "o": [
+   "Saat birdə biz də toplanışda olmalıyıqmı?",
+   "Uşaqlar, bəlkə, bu məsələyə daha qayıtmayaq.",
+   "Zaman dəyişir, hər şey inkişafdadır, həmçinin insan zəkası da.",
+   "Gərək bu ışı ustalara tapşıraq.",
+   "Deyəsən, bizi də gözləyirlər."
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“bəlkə” – modal söz, “daha” – ədat."
+ },
+ {
+  "q": "Hansı nümunədə söz birləşməsindən istifadə olunmayıb?",
+  "o": [
+   "O, təzə çəkmələrini geyinib həyətə düşdü",
+   "Gec-tez biz qonşu kəndə köçməliyik",
+   "Nərgizin çəkdiyi şəkillər dəhlizi bəzəyirdi",
+   "Axşam Rəsul məntəqədən evə gec gəldi",
+   "Səməd əmisinin boğuq qışqırtısını eşitdi"
+  ],
+  "a": 3,
+  "m": "Söz birləşmələri",
+  "izah": "Digər cümlələrdə birləşmə var: təzə çəkmələr, qonşu kənd, Nərgizin çəkdiyi şəkillər, əmisinin qışqırtısı."
+ },
+ {
+  "q": "Həm ədat, həm də başqa nitq hissəsi kimi işlənən sözlərdir",
+  "o": [
+   "necə, belə, di, yəni, məgər",
+   "ən. lap. daha, məgər, yəni",
+   "bəs, -mı, -sana, qoy, ancaq",
+   "ki, təkcə, necə, ancaq, belə",
+   "barı, kaş, axı, -mi, ancaq"
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "ki (bağlayıcı), təkcə, necə, ancaq, belə həm ədat, həm başqa nitq hissəsi kimi işlənir."
+ },
+ {
+  "q": "Cümlələrdən birində fərqləndirilmiş ifadə frazeoloji birləşmə DEYİL:",
+  "o": [
+   "Usta Ramazan [gözə dəymirdi].",
+   "Polad dayaqlar üzərində [körpülər quruldu].",
+   "Bu mahnılarda onun ürəyinin kədəri [dilə gəlirdi].",
+   "Qayığın gənc kapitanı hərdən ətrafa [nəzər salırdı].",
+   "Mürsəl camaatın arxasında [gözdən itdi]."
+  ],
+  "a": 1,
+  "m": "Frazeologiya",
+  "izah": "“körpülər quruldu” – sözlər həqiqi mənasındadır, frazeoloji birləşmə deyil."
+ },
+ {
+  "q": "Bənddəki sözlərdən biri orfoqrafiyasına yox, orfoepiyasına uyğun verilmişdir:\nTovuz(1) kimi şux(2) bəzənib durubsan,\nAla(3) gözə siyah sürmə vurubsan,\nSağ ol səni, yaxşı dövran(4) qurubsan,\nBu dünyanın sonu puşdu(5), Güləndam. (Aşıq Ələsgər)",
+  "o": [
+   "1",
+   "3",
+   "5",
+   "2",
+   "4"
+  ],
+  "a": 2,
+  "m": "Fonetika",
+  "izah": "Yazılışı “puçdur”, tələffüzü [puşdu]; bənddə orfoepik forma verilib."
+ },
+ {
+  "q": "Nümunədə hansı köməkçi nitq hissələrinin işləndiyini müəyyənləşdirin.\nNə olar, hər şeyi deyə bilmirəm,\nDeyəsən, bunları həyat deyəcək.\nAh, təki sən sağ ol, bu soyuq tale ,\nMəndən istəsə, bir can istəyəcək. (Ə. Kərim)",
+  "o": [
+   "modal söz, bağlayıcı, nida",
+   "qoşma, nida, modal söz",
+   "modal söz, nida, ədat",
+   "bağlayıcı, ədat, nida",
+   "qoşma, modal söz, ədat"
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "deyəsən – modal söz; ah – nida; təki – arzu ədatı."
+ },
+ {
+  "q": "Nümunədəki “arzular” sözlərinin tərkibində işlənib:\nCan evimə sığışmayan arzular\nBu dünyada neçə dünya arzular. (S. Vurğun)",
+  "o": [
+   "2 qrammatik şəkilçi; 1 leksik, 2 qrammatik şəkilçi",
+   "1 qrammatik şəkilçi; 2 leksik şəkilçi",
+   "1 leksik, 1 qrammatik şəkilçi; 1 leksik, 2 qrammatik şəkilçi",
+   "1 leksik, 1 qrammatik şəkilçi; 2 qrammatik şəkilçi",
+   "1 qrammatik şəkilçi; 1 leksik, 1 qrammatik şəkilçi"
+  ],
+  "a": 4,
+  "m": "Söz yaradıcılığı",
+  "izah": "1-ci “arzular” – isim + cəm şəkilçisi; 2-ci “arzular” – feil: arzu + la (leksik) + r (qrammatik)."
+ },
+ {
+  "q": "Hansı sözün leksik mənasının izahı VERİLMƏMİŞDİR?\n1. qəbul etmə, bəyənmə\n2. məlumatın yalan olduğunu bildirmə\n3. başqasının hərəkətini, danışıq tərzini təkrar etmə\n4. qorxutma, hədələmə",
+  "o": [
+   "təhdid",
+   "təqdir",
+   "təkzib",
+   "təqlid",
+   "təhrik"
+  ],
+  "a": 4,
+  "m": "Leksika",
+  "izah": "Təhrik – qızışdırma, sövq etmə. Verilən izahlar: təqdir, təkzib, təqlid, təhdid."
+ },
+ {
+  "q": "Hansı cümlədə fərqləndirilmiş sözü digərləri ilə eyniköklü hesab etmək OLMAZ?",
+  "o": [
+   "Ey həmdəmim, səni qana qərq eylər, / Gəl tərpətmə [yaralanmış] könlümü. (M. V. Vidadi)",
+   "Düşmənin möhkəmləndirilmiş müdafiə xəttini [yardığım] üçün mükafatlandırılmışam.",
+   "Meşənin arası, çal qayalığın ayağı iki yana [yarılmışdı]. (S. Rəhimov)",
+   "Qəhrəman səhərəyaxın daş yolun altındakı qayanın [yarığına] girib uzandı.",
+   "Su axınlarının əmələ gətirdiyi [yarğanlar] kənd təsərrüfatına böyük ziyan vurur."
+  ],
+  "a": 0,
+  "m": "Eyniköklü sözlər",
+  "izah": "“yaralanmış” – “yara” (isim) kökündəndir; digərləri “yar(maq)” feilindəndir."
+ },
+ {
+  "q": "Frazeoloji sinonimləri müəyyən edin.",
+  "o": [
+   "bel bağlamaq – boynundan atmaq",
+   "gözə gəlmək – başa gəlmək",
+   "əldən düşmək – gözdən düşmək",
+   "ürəyi düşmək – gözü götürməmək",
+   "haldan düşmək – nəfəsi kəsilmək"
+  ],
+  "a": 4,
+  "m": "Frazeologiya",
+  "izah": "Hər ikisi “çox yorulmaq” mənasındadır."
+ },
+ {
+  "q": "Modal sözün işlənmədiyi cümləni müəyyən edin.",
+  "o": [
+   "Deyəsən, qoca bu fikrini Tahirə də demək istəyirdi.",
+   "Ancaq gözəlliyə heyran olanda Özümü oğlumla həmyaş bilirəm. (B. Vahabzadə)",
+   "Xəlilov, əlbəttə, yalnız bunun üçün çalışırdı.",
+   "Sözün də su kimi lətafəti var, Hər sözü az demək, şəksiz, xoş olar. (N. Gəncəvi)",
+   "Yəqin ki, sən görmüsən, Təkgözlü, ikigözlü, çoxgözlü pəncərələr. (R. Rza)"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Ancaq” burada modal söz deyil. Digərlərində: deyəsən, əlbəttə, şəksiz, yəqin."
+ },
+ {
+  "q": "Birində “açıq” sözünün mənası ilə cümlədə işlənməsi arasında UYĞUNSUZLUQ vardır (məna — işlənmə):",
+  "o": [
+   "azaltma əlaməti — Qızın açıq-sarı saçları vardı.",
+   "qapalı olmayan — Açıq pəncərədən ətrafı seyr edirdi.",
+   "gizli olmayan — Səhər saatlarında bu yol açıq olur.",
+   "müdafiəsiz — Cəbhənin açıq yerlərinə qüvvə göndərmək lazımdır.",
+   "sahibsiz — İdarəmizdə üç açıq yer var."
+  ],
+  "a": 4,
+  "m": "Leksika",
+  "izah": "“açıq yer” – boş, tutulmamış yer (vakansiya) deməkdir, “sahibsiz” mənasında deyil."
+ },
+ {
+  "q": "Həm ədat, həm də əsas nitq hissəsi kimi işlənə bilən sözləri müəyyən edin",
+  "o": [
+   "necə, tək",
+   "qov, hətta",
+   "təkcə, axı",
+   "gör, dı",
+   "bır, hətta"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "necə – ədat və əvəzlik; tək – ədat, sifət, qoşma kimi işlənir."
+ },
+ {
+  "q": "“Əsəbiləşmək” sözünün frazeoloji birləşmə ilə ifadə olunmuş sinonimləri hansı bənddədir?",
+  "o": [
+   "cin atına minmək, özündən çıxmaq, zəncir çeynəmək",
+   "ürəyi istəmək, könlündən keçmək, ürəyi getmək",
+   "hirslənmək, qəzəblənmək, hirsi başına vurmaq",
+   "dəridən-qabıqdan çıxmaq, canını oda yaxmaq, dərdə düşmək",
+   "ağzına çullu dovşan sığmamaq, gözü düşmək, gözdən düşmək"
+  ],
+  "a": 0,
+  "m": "Frazeologiya",
+  "izah": "Hər üçü frazeoloji birləşmədir və “əsəbiləşmək” mənasını verir."
+ },
+ {
+  "q": "Hansı cümlənin tərkibində fərqləndirilmiş sözlər eyni nitq hissəsinə aid deyil?",
+  "o": [
+   "Bir düşün, bu qədər adam bir sənəmi etibar eləyəcək?",
+   "Varlının toyuğu da yumurtlayır, xoruzu da",
+   "Nə dərin suya gir, nə Xıdır Nəbini çağır",
+   "O gəlsə daş ilə, sən get aş ilə.",
+   "Bir kəndin ki koxası o olacaq, mümkündür ki, orada xeyir iş ola?"
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "Birinci “ki” ədatdır (bir kəndin ki), ikincisi bağlayıcıdır (mümkündür ki)."
+ },
+ {
+  "q": "“Can deyib can eşitmək” ifadəsinin leksik mənası ilə bağlı SƏHVİ müəyyən edin.",
+  "o": [
+   "“Xoşa gəlmək” ifadəsi ilə sinonimdir.",
+   "Frazeoloji birləşmədir.",
+   "Tərkibindəki sözlər məcazi məna daşıyır.",
+   "Frazeoloji antonimi “kölgəsini qılınclamaq”dır.",
+   "“Mehriban olmaq” mənasındadır."
+  ],
+  "a": 0,
+  "m": "Frazeologiya",
+  "izah": "Məna “mehriban olmaq”dır; “xoşa gəlmək” ilə sinonim deyil."
+ },
+ {
+  "q": "Tərkibində tabelilik bağlayıcısı işlənmiş cümləni müəyyən edin",
+  "o": [
+   "Madam ki hazırlaşmışsan, daha niyə qorxursan?",
+   "Ədilə və Sevda eyni sinifdə oxuyurlar",
+   "Gah özünü günahkar sayır, gah başqasını",
+   "Hava tutuldu, amma yağış yağmadı",
+   "Nə “hə” deyir, hə “yox”"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“madam ki” – səbəb bildirən tabelilik bağlayıcısıdır."
+ },
+ {
+  "q": "“Mən kökümlə bu torpağa bağlıyam” (R. Rza) misrasındakı sözlərin morfoloji izahi ilə bağlı səhvi müəyyən edin.",
+  "o": [
+   "Torpağa — isimdir, yönlük haldadır",
+   "Bağlıyam - sifətdir, I şəxsin xəbərlik şəkilçisini qəbul etmişdir.",
+   "Kökümlə - tərzi-hərəkət zərfidir",
+   "Bu — işarə əvəzliyidir, sifəti əvəz etmişdir",
+   "Mən - şəxs əvəzliyidir, adlıq haldadır"
+  ],
+  "a": 2,
+  "m": "Morfologiya",
+  "izah": "“Kökümlə” zərf deyil, alətlik mənalı isimdir: kök + üm + lə."
+ },
+ {
+  "q": "“O bu sözləri birnəfəsə deyib düşündü ki, görəsən, bu hərəkəti ilə qızı təşvişə salmadı ki...” cümləsindəki köməkçi nitq hissələrinin işlənmə ardıcıllığını müəyyən edin.",
+  "o": [
+   "bağlayıcı, modal söz, qoşma, nida",
+   "modal söz, qoşma, bağlayıcı, ədat",
+   "modal söz, ədat, bağlayıcı, qoşma",
+   "bağlayıcı, modal söz, qoşma, ədat",
+   "ədat, modal söz, qoşma, bağlayıcı"
+  ],
+  "a": 3,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "ki – bağlayıcı, görəsən – modal söz, ilə – qoşma, ki – ədat."
+ },
+ {
+  "q": "“Mən əminəm ki, yarışda qalib gələcəyik” cümləsindəki sözlərin nitq hissələrinə görə izahı ilə bağlı səhvi müəyyən edin.",
+  "o": [
+   "Ki - tabelilik bağlayıcısıdır",
+   "Mən - şəxs əvəzliyidir.",
+   "Əminəm - feildir, indiki zamandadır",
+   "Yarışda — sadə isimdir, yerlik haldadır",
+   "Qalib gələcəyik - feildir, gələcək zamandadır"
+  ],
+  "a": 2,
+  "m": "Morfologiya",
+  "izah": "“Əminəm” feil deyil: “əmin” sifəti + xəbərlik şəkilçisi."
+ },
+ {
+  "q": "Hansı bənddəki sözlərə ön şəkilçi artırmaq OLMAZ?",
+  "o": [
+   "su, torpaq, hava",
+   "savad, razı, xəbər",
+   "məzə, mərd, xoş",
+   "mümkün, normal, layiq",
+   "münasib, dinc, rahat"
+  ],
+  "a": 0,
+  "m": "Söz yaradıcılığı",
+  "izah": "su, torpaq, hava ön şəkilçi qəbul etmir. Digərləri: bisavad, narazı, bixəbər, namərd, qeyri-mümkün, narahat."
+ },
+ {
+  "q": "“Mükalimə” sözünün leksik mənası ilə bağlı doğru fikirdir:",
+  "o": [
+   "malikanə",
+   "münaqişə",
+   "iki şəxsin əməkdaşlığı",
+   "iki şəxs arasında söhbət",
+   "incəlik, zəriflik"
+  ],
+  "a": 3,
+  "m": "Leksika",
+  "izah": "Mükalimə – iki nəfər arasında söhbət, dialoq."
+ },
+ {
+  "q": "Hansı cümlənin tərkibində modal söz işlənmişdir?",
+  "o": [
+   "Mən bu sözlərin səmimiliyinə inanıram.",
+   "Bizdən demək, sizdən eşitmək.",
+   "Görəsən, dünyada anadan əziz bir insan varmı?",
+   "Sabir düzü düz, əyrini əyri yazırdı.",
+   "Ədəbi gecədə məruzələrdən əlavə, çıxışlar da oldu."
+  ],
+  "a": 2,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Görəsən” – şübhə, maraq bildirən modal sözdür."
+ },
+ {
+  "q": "Kökü omonim olan sözdür:",
+  "o": [
+   "yaşıllıq",
+   "toxucu",
+   "soyuducu",
+   "soydaş",
+   "çalışmaq"
+  ],
+  "a": 3,
+  "m": "Leksika",
+  "izah": "“soy” – nəsil (isim) və “soymaq” feili; omonim köklü sözdür."
+ },
+ {
+  "q": "Hansı cümlələrdə ədat işlənmişdir?\n1. Elə biz də bu məsələdən narahatıq.\n2. Yoxdur bu torpaqda şair sizintək.\n3. Axı mən insanam, arzularım var.\n4. Ah, nələr duyuram onun səsində!\n5. Bir də evə gecikmərəm, lap arxayın ol.",
+  "o": [
+   "1, 3, 5",
+   "1, 2, 3",
+   "3, 4, 5",
+   "4, 5",
+   "2, 4, 5"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "elə (1), axı (3), lap (5) – ədatdır. 2-də “tək” qoşma, 4-də “ah” nidadır."
+ },
+ {
+  "q": "Hansı söz çoxmənalı söz kimi işlənə BİLMİR?",
+  "o": [
+   "hıçqırmaq",
+   "bişirmək",
+   "çevirmək",
+   "yumaq",
+   "atmaq"
+  ],
+  "a": 0,
+  "m": "Leksika",
+  "izah": "“Hıçqırmaq” yalnız bir mənada işlənir."
+ },
+ {
+  "q": "Yəqinlik məzmunu ifadə edən modal sözün işləndiyi cümləni müəyyən edin",
+  "o": [
+   "Elə bil obadan əl çəkmisən.",
+   "Deyilənə görə, hamı layihəni bəyənib.",
+   "Deməli, sən də bu fikirdəsən.",
+   "Deyəsən, niyyəti onu ulduzlara qədər aparmaq idi",
+   "Xalqın səsinə qulaq asmaq, əlbəttə, lazımdır."
+  ],
+  "a": 4,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Əlbəttə” yəqinlik bildirir. deyəsən – ehtimal, deyilənə görə – mənbə, deməli – nəticə."
+ },
+ {
+  "q": "“Söyüdlər ahəstə-ahəstə yırğalanaraq sanki “segahı” dinləyirdi” cümləsində nitq hissələrinin düzülmə ardıcıllığını müəyyən edin",
+  "o": [
+   "isim, qoşma, modal söz, feil",
+   "zərf, isim, modal söz, əvəzlik, feil",
+   "isim, zərf, say, isim, feil",
+   "isim, zərf, feil, modal söz, isim, feil",
+   "zərf, ədat, modal söz, isim, feil"
+  ],
+  "a": 3,
+  "m": "Morfologiya",
+  "izah": "söyüdlər (isim), ahəstə-ahəstə (zərf), yırğalanaraq (feil), sanki (modal söz), segahı (isim), dinləyirdi (feil)."
+ },
+ {
+  "q": "Yağış həm kasıbın, həm də varlının başına yağır, var. Nümunədəki bağlayıcılarla bağlı yanlış fikri müəyyənləşdirin\n1. Həm tabelilik, həm tabesizlik bağlayıcıları işlənib\n2. Bağlayıcıların hamısı cümlələr bağlayır\n3. Üç müxtəlif məna növündə istifadə olunub\n4. Quruluşca eynı növdədir",
+  "o": [
+   "1, 2",
+   "2, 4",
+   "3, 4",
+   "2, 3",
+   "1, 4"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "2 yanlışdır: “həm … həm də” üzvləri bağlayır. 4 də yanlışdır: bağlayıcılar quruluşca fərqlidir."
+ },
+ {
+  "q": "Frazeoloji birləşmələrdən biri “aldatmaq” mənasına uyğundur:",
+  "o": [
+   "gözü su içməmək",
+   "ələ salmaq",
+   "qaşqabaq sallamaq",
+   "baş aparmaq",
+   "gözə kül üfürmək"
+  ],
+  "a": 4,
+  "m": "Frazeologiya",
+  "izah": "“Gözə kül üfürmək” – aldatmaq."
+ },
+ {
+  "q": "“İzləmirik” sözünün tərkibində işlənib:",
+  "o": [
+   "1 leksik, 2 qrammatik şəkilçi",
+   "1 leksik, 3 qrammatik şəkilçi",
+   "3 leksik şəkilçi",
+   "2 leksik, 1 qrammatik şəkilçi",
+   "2 leksik, 2 qrammatik şəkilçi"
+  ],
+  "a": 1,
+  "m": "Söz yaradıcılığı",
+  "izah": "iz + lə (leksik) + mi + r + ik (3 qrammatik)."
+ },
+ {
+  "q": "Cümlələrdən birində qoşma işlənməmişdir",
+  "o": [
+   "Yağışdan sonra güclü külək başladı",
+   "Arxı tullan, sonra “afərin” de",
+   "Səndən başqa dostum yoxdur",
+   "Kamil çantasının ağzını iplə bağlayırdı",
+   "Şirin bir xatirətək qalacaqdır dünyada, Sevərək yaşayanlar, sevilərək ölənlər (S. Vurğun)"
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“sonra” burada zərfdir. Digərlərində: -dan sonra, -dan başqa, ilə kimi qoşmalar var."
+ },
+ {
+  "q": "Həm omonim, həm də çoxmənalı söz kimi işlənə bilən sözü müəyyən edin. (Məs.: “şam” — omonim, “göz” — çoxmənalı söz)",
+  "o": [
+   "gün",
+   "qol",
+   "həyat",
+   "kitab",
+   "barmaq"
+  ],
+  "a": 1,
+  "m": "Leksika",
+  "izah": "qol – omonim (bədən üzvü / idmanda qol) və çoxmənalı (çayın qolu, paltarın qolu)."
+ },
+ {
+  "q": "“Elə” sözü hansı cümlədə ədatdır?",
+  "o": [
+   "Müəllim elə uşaqları həmişə fərqləndirirdi.",
+   "Elə içəri girmişdi ki, bayırdan güclü şaqqıltı səsi gəldi.",
+   "Onu elə bil yuxudan oyatdılar.",
+   "Eləsi gərək geri qayıda idi.",
+   "Hey deyirəm ki, elə olmaz. eşitmək istəmir."
+  ],
+  "a": 1,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Elə … ki” – “elə” burada ədat kimi zamanı dəqiqləşdirir."
+ },
+ {
+  "q": "Altından xətt çəkilmiş sözlərdən hansılar omonimdir?",
+  "o": [
+   "Kağız torba davamsız olur. Bu qədər kağız nəyinə lazımdır?",
+   "Uşağın boğazı ağrıyır. Qrafinin boğazı rənglidir.",
+   "Uşağın dişi çıxır. Darağın dişi sındı.",
+   "Onun gözləri mavi idi. Şkafın bir neçə gözü var idi.",
+   "Axşam dolu yağdı. Ovçunun belindəki qatar patronla dolu idi."
+  ],
+  "a": 4,
+  "m": "Leksika",
+  "izah": "dolu (yağıntı) və dolu (boş olmayan) – omonimdir. Digərlərində çoxmənalılıq var."
+ },
+ {
+  "q": "“Müəllim” sözünün fonetik xüsusiyyətləri ilə bağlı SƏHV fikri müəyyən edin.",
+  "o": [
+   "Vurğusu 2-ci hecanın üzərindədir.",
+   "[ü] incə, dodaqlanan, qapalı, [ə], [i] incə, dodaqlanmayan saitlərdir.",
+   "Üçhecalıdır.",
+   "[m], [l] cingiltili samitlərdir.",
+   "İncə saitlərin ahəngi gözlənilmişdir."
+  ],
+  "a": 0,
+  "m": "Fonetika",
+  "izah": "“Müəllim” sözündə vurğu son hecaya düşür."
+ },
+ {
+  "q": "Hansı cümlədə vergül ədatla bağlıdır?",
+  "o": [
+   "Xeyr, ayağım Təbrizə dəyməyib",
+   "Əl verdilər, hətta qucaqlaşdılar",
+   "Doğrudan da, bir-birini çoxdan tanıyırlar",
+   "Ah, nə üçün dostluğa xam çıxanlara cəza tədbiri yoxdur (S. Qədirzadə)",
+   "Gah başına, gah döşünə vurma, əkinçi (M. Ə. Sabir)"
+  ],
+  "a": 0,
+  "m": "Köməkçi nitq hissələri",
+  "izah": "“Xeyr” inkar ədatıdır və vergüllə ayrılır."
+ },
+ {
+  "q": "Çoxmənalı sözləri müəyyən edin.",
+  "o": [
+   "papaq, karandaş, nəticə, dolu",
+   "top, ay, günəş, tar",
+   "qar, bel, tut, qayın",
+   "ayaq, ətək, kök, ağız",
+   "ana, yaş, bağ, dağ"
+  ],
+  "a": 3,
+  "m": "Leksika",
+  "izah": "ayaq, ətək, kök, ağız – çoxmənalıdır: dağın ətəyi, şüşənin ağzı, ağacın kökü."
+ }
+]
